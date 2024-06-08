@@ -15,5 +15,5 @@ This project demonstrates a simple reinforcement learning agent (a red square) l
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/reinforcement-learning-pygame.git
+   git clone [https://github.com/yourusername/reinforcement-learning-pygame.git]
    cd reinforcement-learning-pygame
