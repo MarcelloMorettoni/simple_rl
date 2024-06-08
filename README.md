@@ -16,4 +16,4 @@ This project demonstrates a simple reinforcement learning agent (a red square) l
 
    ```sh
    git clone https://github.com/MarcelloMorettoni/simple_rl.git
-   cd simple_rl.git
+   cd simple_rl
