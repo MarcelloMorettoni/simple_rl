@@ -1,5 +1,4 @@
 # simple_rl
-A simple Reinforcement Learning example
 ![plot](img/reinfo_banner.png?raw=true "Screenshot")
 
 This project demonstrates a simple reinforcement learning agent (a red square) learning to reach a target (a green square) using Q-learning in a PyGame environment.
