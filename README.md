@@ -28,7 +28,7 @@ This project demonstrates a simple reinforcement learning agent (a red square) l
 Q-learning Algorithm
 The agent learns to reach the target by interacting with the environment and updating its Q-table based on the rewards received. The Q-learning algorithm is a type of reinforcement learning where the agent learns the value of taking specific actions in specific states.
 
-##Environment Setup
+## Environment Setup
 The agent (red square) starts at a fixed position.
 The target (green square) is at a fixed position but can be made dynamic.
 The agent receives a reward of +100 for reaching the target and -1 for each step taken.
@@ -44,12 +44,12 @@ The environment is rendered using PyGame.
 Learning Progress
 The total rewards per episode are tracked and plotted using Matplotlib to visualize the agent's learning progress. Over time, the agent should learn to reach the target more efficiently, resulting in higher total rewards per episode.
 
-##Example Output
+## Example Output
 After training, you can expect the agent to learn an optimal path to the target. The learning progress can be visualized in a plot showing the total rewards per episode.
 
 
-##Contributing
+## Contributing
 Feel free to submit issues or pull requests if you have suggestions for improvements or find any bugs.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
