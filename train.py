@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 pygame.init()
 
 # Screen dimensions
-width, height = 600, 600
+width, height = 200, 200
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption('Reinforcement Learning Example')
 
